@@ -1,5 +1,7 @@
 Pro:
 - closer to sun
+- change
+- change2
 
 Con:
 - protomolecule is all over it
